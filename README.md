@@ -1,3 +1,2 @@
-# food_recipe_app
-
+# Food Recipe App
 
