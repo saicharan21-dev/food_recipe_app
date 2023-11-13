@@ -17,7 +17,7 @@ class MainApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       theme:ThemeData(
         primarySwatch: Colors.yellow,
-        primaryColor:Colors.blue,
+        primaryColor:Colors.blue
         textTheme:TextTheme(
           bodySmall: TextStyle(color: Colors.white)
         ),
